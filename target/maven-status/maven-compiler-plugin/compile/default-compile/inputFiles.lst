@@ -1,0 +1,16 @@
+/home/cragie/Downloads/Test/spring-server-generated/src/main/java/io/swagger/configuration/SwaggerDocumentationConfig.java
+/home/cragie/Downloads/Test/spring-server-generated/src/main/java/io/swagger/configuration/CustomInstantDeserializer.java
+/home/cragie/Downloads/Test/spring-server-generated/src/main/java/io/swagger/Swagger2SpringBoot.java
+/home/cragie/Downloads/Test/spring-server-generated/src/main/java/io/swagger/model/Individual.java
+/home/cragie/Downloads/Test/spring-server-generated/src/main/java/io/swagger/api/ApiException.java
+/home/cragie/Downloads/Test/spring-server-generated/src/main/java/io/swagger/model/Error.java
+/home/cragie/Downloads/Test/spring-server-generated/src/main/java/io/swagger/model/IndividualCreate.java
+/home/cragie/Downloads/Test/spring-server-generated/src/main/java/io/swagger/configuration/JacksonConfiguration.java
+/home/cragie/Downloads/Test/spring-server-generated/src/main/java/io/swagger/RFC3339DateFormat.java
+/home/cragie/Downloads/Test/spring-server-generated/src/main/java/io/swagger/api/IndividualApi.java
+/home/cragie/Downloads/Test/spring-server-generated/src/main/java/io/swagger/api/IndividualApiController.java
+/home/cragie/Downloads/Test/spring-server-generated/src/main/java/io/swagger/api/NotFoundException.java
+/home/cragie/Downloads/Test/spring-server-generated/src/main/java/io/swagger/model/IndividualUpdate.java
+/home/cragie/Downloads/Test/spring-server-generated/src/main/java/io/swagger/configuration/HomeController.java
+/home/cragie/Downloads/Test/spring-server-generated/src/main/java/io/swagger/api/ApiOriginFilter.java
+/home/cragie/Downloads/Test/spring-server-generated/src/main/java/io/swagger/api/ApiResponseMessage.java
